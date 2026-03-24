@@ -33,13 +33,12 @@ This project is currently in an "Active R&D" phase. The structure will evolve fr
 
 ## ⚖️ Licensing & Commercial Use
 
-### Non-Commercial / Research Use
-This library and its definitions are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. You are free to share and adapt this material for personal or research purposes provided you give appropriate credit to **Dave Owczarek / Catamount Music**.
+- **Non-commercial / research use:** Licensed under **CC BY-NC 4.0**.
+- **Commercial use:** Not permitted under CC BY-NC 4.0. For commercial licensing, contact Catamount Music.
 
-### Commercial Licensing
-**Commercial use is strictly prohibited under the CC BY-NC 4.0 license.** If you wish to use the GEL taxonomy, schema, or definitions in a commercial product (e.g., pedals, plugins, or for-profit datasets), you **must** obtain a separate license.
+**Full license terms:** See `LICENSE.md`.
 
-**Contact:** [catamountmusic.com](https://catamountmusic.com) or Dave Owczarek directly for commercial inquiries.
-
+**Contact:** [Catamount Music](https://catamountmusic.com) or [Dave Owczarek](mailto://dave@catamountmusic.com) for commercial inquiries.
 ---
-*Developed by Catamount Music*
+
+*Copyright © 2026 Catamount Music. All rights reserved.*
