@@ -1,5 +1,7 @@
 # License for the Guitar Event Library (GEL)
 
+*Copyright © 2026 Catamount Music. All rights reserved.*
+
 ## 1. Non-Commercial / Research Use
 This library and its definitions are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. 
 
