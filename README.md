@@ -23,11 +23,12 @@ This project is currently in an "Active R&D" phase. The structure will evolve fr
 ---
 
 ## 📜 Baseline Definitions (v0.1)
-*Currently drafting initial entries for two-string (Low-E / B) reference rigs.*
+*Currently drafting initial entries for six-string electric guitar, direct-in, with standard tuning.*
 
-1. **GEL-001: Wound String Pluck (Low E)** - High-amplitude initial transient with complex harmonic decay.
-2. **GEL-002: Plain String Snap (B)** - High-frequency peak with rapid decay; minimal low-mid resonance.
-3. **GEL-003: Mechanical Fret-Clank** - Non-musical transient caused by string-to-fret-wire collision.
+1. **GEL-001: Bell Harmonic
+2. **GEL-002: Pinch Harmonic
+
+etc.
 
 ---
 
