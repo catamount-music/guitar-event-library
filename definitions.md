@@ -39,3 +39,10 @@ Bell harmonics are typically played with a left-hand (pluck) / right-hand (finge
 
 Pinch harmonics are typically played with the picking hand only. Usually, the thumb is used to strike the string just after the note is plucked. This creates an extremly short standing wave that has a very high pitch.
 While audible at normal volume, pinch harmonics are typically played with compression and distortion, which allows for the lower standing wave signal to be heard at loud volume, causing a distinct squeal kind of noise with a pitch.
+
+---
+<p align="left">
+  <img src="assets/name%2Blogo-black-transparent.png" alt="Catamount Music Logo" width="400">
+</p>    
+
+*Copyright © 2026 Catamount Music. All rights reserved.*
