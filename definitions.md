@@ -1,3 +1,9 @@
+# Event Dictionary
+
+## Proposed fields
+
+**Note:** These don't all exist at the start, but may hopefully be filled in over time.
+
 | Field | Definition | Purpose |
 |---|---|---|
 | GEL-ID	| A unique serial number (e.g., GEL-005).	| Permanent reference for code and experiments |
