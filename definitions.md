@@ -14,7 +14,7 @@
 
 | GEL-ID | Class | Field | Display Label | Synonyms |
 |---|---|---|---|---|
-| | technique | bell-harmonic | Bell Harmonic | |
+| GEL-001 | technique | bell-harmonic | Bell Harmonic | |
 
 A bell harmonic is a bell-like sound make by creating standing waves in the guitar string. This is achieved by placing the tip of a finger (or other object, but finder is most common) at an even interval of the string length (half, third, quarter) and then plucking the string.
 The finger is effectively creating a node where vibration is minimal, which suppresses the primary note vibration, leaving a harmonic series rooted in the bell harmonic.
@@ -29,7 +29,7 @@ Bell harmonics are typically played with a left-hand (pluck) / right-hand (finge
 
 | GEL-ID | Class | Field | Display Label | Synonyms |
 |---|---|---|---|---|
-| | technique | pinch-harmonic | Pinch Harmonic | pick squeal |
+| GEL-002 | technique | pinch-harmonic | Pinch Harmonic | pick squeal |
 
 Pinch harmonics are typically played with the picking hand only. Usually, the thumb is used to strike the string just after the note is plucked. This creates an extremly short standing wave that has a very high pitch.
 While audible at normal volume, pinch harmonics are typically played with compression and distortion, which allows for the lower standing wave signal to be heard at loud volume, causing a distinct squeal kind of noise with a pitch.
