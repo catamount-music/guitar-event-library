@@ -36,9 +36,13 @@ This project is currently in an "Active R&D" phase. The structure will evolve fr
 - **Non-commercial / research use:** Licensed under **CC BY-NC 4.0**.
 - **Commercial use:** Not permitted under CC BY-NC 4.0. For commercial licensing, contact Catamount Music.
 
-**Full license terms:** See `LICENSE.md`.
+**Full license terms:** See `LICENSE.md`.**
+
+---
+<p align="left">
+  <img src="assets/name%2Blogo-black-transparent.png" alt="Catamount Music Logo" width="400">
+</p>
 
 **Contact:** [Catamount Music](https://catamountmusic.com) or [Dave Owczarek](mailto://dave@catamountmusic.com) for commercial inquiries.
 ---
-
 *Copyright © 2026 Catamount Music. All rights reserved.*
