@@ -1,12 +1,12 @@
 | Field | Definition | Purpose |
 |---|---|---|
-| GEL-ID	| A unique serial number (e.g., GEL-005).	| Permanent reference for your code and patent docs. |
-| Class	| The "Bucket" (e.g., Physical, Electrical, Artifact, Environmental).	| High-level taxonomy for filtering your dataset. |
+| GEL-ID	| A unique serial number (e.g., GEL-005).	| Permanent reference for code and experiments |
+| Class	| The "Bucket" (e.g., Physical, Electrical, Artifact, Environmental).	| High-level taxonomy for filtering the dataset. |
 | Definition	| A 1-2 sentence description of the physical/mechanical cause.	| Human-readable "Dictionary" entry. |
 | Acoustic Signature	| Description of the sound (timbre, duration, pitch).	| Useful for manual labeling and "ear-testing" your rig. |
 | Signal Data (BNC)	| The "Voltage View" (Peak mV, waveform shape, noise floor).	| Hard data for your Oscilloscope and hardware testing. |
-| Spectral Profile	| Frequency range (e.g., 200Hz - 5kHz) and harmonic density.	| The "Feature Set" your YAMNet model will actually see. |
-| Provenance Note	| How this event relates to C2PA or authenticity.	| Connects the sound to your Argent project's "Why." |
+| Spectral Profile	| Frequency range (e.g., 200Hz - 5kHz) and harmonic density.	| The electrical characteristics of the signal |
+| Provenance Note	| How this event relates to C2PA, authenticity, or consent.	| Connects the sound to provenance |
 
 ## Terms
 
