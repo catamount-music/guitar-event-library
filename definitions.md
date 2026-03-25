@@ -18,9 +18,9 @@
 
 ### Bell Harmonic
 
-| GEL-ID | Class | Field | Display Label | Synonyms |
-|---|---|---|---|---|
-| GEL-001 | technique | bell-harmonic | Bell Harmonic | |
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-001 | technique | bell-harmonic | Bell Harmonic | | pinch-harmonic |
 
 A bell harmonic is a bell-like sound make by creating standing waves in the guitar string. This is achieved by placing the tip of a finger (or other object, but finder is most common) at an even interval of the string length (half, third, quarter) and then plucking the string.
 The finger is effectively creating a node where vibration is minimal, which suppresses the primary note vibration, leaving a harmonic series rooted in the bell harmonic.
@@ -33,12 +33,30 @@ Bell harmonics are typically played with a left-hand (pluck) / right-hand (finge
 
 ## Pinch Harmonic
 
-| GEL-ID | Class | Field | Display Label | Synonyms |
-|---|---|---|---|---|
-| GEL-002 | technique | pinch-harmonic | Pinch Harmonic | pick squeal |
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-002 | technique | pinch-harmonic | Pinch Harmonic | pick squeal | bell-harmonic |
 
 Pinch harmonics are typically played with the picking hand only. Usually, the thumb is used to strike the string just after the note is plucked. This creates an extremly short standing wave that has a very high pitch.
 While audible at normal volume, pinch harmonics are typically played with compression and distortion, which allows for the lower standing wave signal to be heard at loud volume, causing a distinct squeal kind of noise with a pitch.
+
+## Afterlength
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-003 | physical | afterlength | Afterlength |  | bridge-length |
+
+The `afterlength` is the section of the strings between the nut and tuning machines. It makes a plasticy, trebly sound when plucked or picked that has extremely low sustain due to the shortness of the length of strings. Striking the afterlength also tends to produce and extremely quiet signal in an electric guitar, because the part of the strings that is vibrating does not occur over a pickup. 
+
+There is no afterlength on a headless guitar (a guitar without a headstock).
+
+## Bridge Length
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-004 | physical | bridge-length | Bridge Length |  | after-length |
+
+Bridge length is similar to after length. It is any section of exposed string that runs between the bridge and tailstop. Bridge length does not occur on all guitars - it depends on the bridge design. Bridge length strikes tend to be more audible than afterlength, because they are closer to the pickups and electronics, and because the bridge is mechanically cricital to the transfer of vibration to the instrument (and likely also grounded).
 
 ---
 ## Additional Sources
