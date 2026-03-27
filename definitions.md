@@ -94,6 +94,60 @@ The F barre chord is notorious for being the most difficult chord to play for be
 
 A barre chord is a chord that includes a barre, or a finger that is placed vertically across the guitar neck, articulating a note on every string. The open chord "e" shape is the most commonly used and named barre chord. It is played with just three fingers in the open position, but the addition of the first finger barre allows the chord to be moved up and down the next in any position changing just the root note of the chord.
 
+## Chukka
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-010 | technique | chukka | Chukka | chuc, chuk, chuhk, chuck | chug |
+
+A chukka is played by muting the strings so they don't ring out in any way, then strumming the strings rapidly enough so you don't hear individual string strikes. This creates a "chukk" sound. If the chukk is the downstroke, the "a" is the upstroke. When it is played the same way, the down up pair is called a chukka. 
+
+It is related to a chug in that it is a percussive technique. When played in syncopation with extremely staccato pressure on the frets to create a brief chord, complex rhythms can evolve.
+
+## Chug
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-010 | technique | chug | Chug |   | Chukka, djent |
+
+A chug occurs when you strike the strings with them simultaneously palm-muted. While in some cases the muting can be done in other ways (like muting at the headstock/nut for open string runs) it is most commonly palm muting on the bottom three strings (low E, A, and D in standard tuning)
+
+Chugging is a rhythmic expression that uses patterns of the basic chug to create structure. In metal, this is best exemplified by the `djent` style.
+
+## 3NPS ("Three Notes Per String")
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-011 | technique | 3nps | 3NPS |    | scales |
+
+A 3NPS scale is one where there are always three notes on each string. They can be tricky, especially on the lower frets, because they frequntly require a 5 fret span, which is a relatively longer distance when located on the lower frets near the headstock. 
+
+There are healthy debates about whether 3NPS scales are better and others. Ultimately, the scale patterns are the same, it just how they are played that varies, and most guitarists would do well to try and practice all variations because the have different utility in different situations. 3NPS scales are great for legato, hammer-on, pullof, and speed, because they ahve a unifying cadence across all strings. The only thing that sucks about it is that alternate picking with 3NPS requires you to learn some patterns for moving from string to string.
+
+## Inside Picking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-012 |  | |  |  |  |
+
+Definition
+
+## Outside Picking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-013 |  | |  |  |  |
+
+Definition
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  | |  |  |  |
+
+Definition
+
 ---
 ## Additional Sources
 
