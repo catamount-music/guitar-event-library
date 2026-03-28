@@ -157,6 +157,15 @@ Economy picking is using the most efficient technique to play a phrase of notes.
 
 Alternate picking is a technique where the pick is always alternating between downstroke and upstroke, no matter where the notes need to be played on the neck. This creates challenging situations, particularly around string switching, where it is sometime natural and faster to break the alternation. But a purist would require strict alternation on every note.
 
+## Galloping
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+Credit Bell Eller on this one, I didn't realize it was a thing.
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
