@@ -128,25 +128,42 @@ There are healthy debates about whether 3NPS scales are better and others. Ultim
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL-012 |  | |  |  |  |
+| GEL-012 | technique | inside-picking | Inside Picking | | outside-picking, economy picking, alternate-picking |
 
-Definition
+Inside picking occurs when a series of notes falls on two adjecent strings and the passage is played by attacking each string from inside the gap between them. The pick always starts from "inside" the strings.
 
 ## Outside Picking
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL-013 |  | |  |  |  |
+| GEL-013 | technique | outside-picking | Outside Picking |  | inside-picking, economy-picking, alternate-picking |
 
-Definition
+Outside picking occurs when a series of notes falls on two adjacent strings and the passage is played by attacking each string from ouside the gap between them. The pick always starts from "outside" the strings.
+
+## Economy Picking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-014 | technique | economy-picking | Economy Picking | | inside-picking, outside-picking, alternate-picking |  
+
+Economy picking is using the most efficient technique to play a phrase of notes. The classic example of this is using alternate picking but adding a sweep pick motion for any string change that occurs in the same direction as the pick motion. The notion of economy comes from minimizing the number of times the guitarist has to perform an awkward note to note transition, such as downstrokes on two different strings at high speed.
+
+
+## Alternate Picking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-014 | technique | alternate-picking | Alternate Picking | | inside-picking, outside-picking, economy-picking |  
+
+Alternate picking is a technique where the pick is always alternating between downstroke and upstroke, no matter where the notes need to be played on the neck. This creates challenging situations, particularly around string switching, where it is sometime natural and faster to break the alternation. But a purist would require strict alternation on every note.
 
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- |  | |  |  |  |
+| GEL- |  |  |  | |  |  |
 
-Definition
+Description
 
 ---
 ## Additional Sources
