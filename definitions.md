@@ -161,16 +161,69 @@ Alternate picking is a technique where the pick is always alternating between do
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
+| GEL-015 | technique | gallop | Galloping  |  | | 
 
 Description
-Credit Bell Eller on this one, I didn't realize it was a thing.
+Credit Ben Eller on this one, I didn't realize it was a thing. Galloping is a rhythmic technique that combines playing chugs in doublets, triplets, or other arrangements to create a rhythmic sound that mimics galloping.
+
+## Dive bomb
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-016 | tecnnique | dive-bomb | Dive Bomb | | Tremolo bar |
+
+A dive bomb is when you play a string, often an open, middle string like the G, and then press the tremolo bar down sharply towards the guitar, causing the strings to loosen and the pitch of that played string to drop down into the bass range. With a locking tremolo, the strings can be made so loose they don't vibrate and sometimes get stuck to the pickups due to magnetic attraction. The sound mimics the tropey version of an old-school falling bomb, that makes a trebly sound that drops in pitch as it descends towards the earth. And the loosening strings hitting the pickups can sound like the explosion as well.
+
+## Bigsby Tremolo
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-017 | technique | bigsby-tremolo | Bigsby Tremolo | | tremolo-bar |
+
+A Bigsby Tremolo is a bar that uses a moving roller to raise and lower the string tension creating the tremolo effect. A Bigsby Tremolo bar has a much narrower range than a spring-loaded tremolo, and is used for shallower tremolo effects. Like most tremolo systems, a Bigsby Tremolo affects tuning stability and can create pings and knocks from the strings moving around on the tremolo bar. A Bigsby tremolo bar cannot be used in a highly aggressivce manor and is not appropriate for most hard rock and metal and a much greater range of tremolo is needed.
+
+Description
+
+## Legato
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-018 | technique | legato | Legato | | |
+
+Legato has a specific meaning as a guitar technique. While it canonically means playing smoothly articulated lead lines that are connected and fluid, in the guitar world, it also means doing that with only the fret-hand. Legato is a left-hand technique (for right-handed players) or a right-handed technique for left-handed players. With legato, you use the hammer-on, pull-off technique to create all the notes, but the pull-offs are done from one finger to the next on the fretting hand. Legato requires building hand muscle strength, especially for first-finger hammer-ons and pinky pull-offs.
+
+## Hammer On
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-019 | technique | hammer-on | Hammer On | | legato |
+
+
+A hammer-on is when you play the note by striking and holding the string against the fretboard without using a pick - using only the finger tip. It can be played with either hand. To make hammer-ons effective, they must be played close to the fret with a sharp, striking motion. Compression is often used in the signal chain to help smooth out the sound and raise the levels of the quieter notes.
+
+## Pull Off
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-020 | technique | pull-off | Pull Off | | legato  |
+
+A pull-off is when a note is played by pulling up or down on the string with a finger, usually on the fretting hand, and then releasing it. The note is thus played without a pick. Pull-offs can be done with the picking hand. In that case, a finger on the picking hand will usually hammer-on the note and then pull-off to the next note.
 
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
 | GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
 
 Description
 
