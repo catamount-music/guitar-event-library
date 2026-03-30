@@ -209,6 +209,50 @@ A hammer-on is when you play the note by striking and holding the string against
 
 A pull-off is when a note is played by pulling up or down on the string with a finger, usually on the fretting hand, and then releasing it. The note is thus played without a pick. Pull-offs can be done with the picking hand. In that case, a finger on the picking hand will usually hammer-on the note and then pull-off to the next note.
 
+## Chicken Picking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-021 | technique | chicken-picking | Chicken Picking | |
+
+The chicken picking technique is named after the sound of one of its' principal movements. Chicken picking is alternating staccato notes that are picked and plucked with the fingers. The cononical chicken picking sound mimics clucking or the "bawk-bawk" sound of a chicken when the pick strikes a note on a string which is the immediately palm muted, followed by the pick-hand fingers pulling sharply on another string, almost slapping it back onto the neck, to create the second note, which is then also immediately palm muted. While there are many more complicated patterns, this kind of syncopated alternation between a strongly picked note and other notes "plucked" with the fingers creates a distinction sound that is a staple, particularly in country music and bluegrass.
+
+## Palm Mute
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-022 | technical | palm-mute | Palm Mute | |
+
+A palm mute is when you press the palm of your hand over the strings right where they meet the rollers, tailstop, or bridge. Palm muting allows for a rich transient attack with a very short decay to quiet, perfect for creating rhythmic sequences and gallops. The level of muting can be adjusted by how close the palm is to the strings at the bridge. In addtion, the palm mute is typically applied from low to high strings as a generate purpose mute during playing. For example, a passage that starts out with power chords on the first few frets of the neck that eventually turns into a lead line on the higher strings. The palm mute will cover the bottom three strings for that first passage, and then move up, covering more strings as the score move to a higher pitched passage.
+
+## False Start
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-023 | technique | false-start | False Start | | |
+
+A false start happens when beginning a song or starting a passage. Although  making a mistake is not required, it is typically the reason the false start behavior develops. In a false start, the player realizes immediately that they do not wish to continue playing and simply stop playing the passage, resting briefly, then starting again. I suppose it is not tecnically required to play the passage again for it to be a false start. ONe could simply give up after the attempt and it might be called just a failed attempt at a song. But a false start is usually immediately followed by another attempt.
+
+False starts in an ensemble setting are trickier. Often, once does not have the luxury of stopping, and having "broken" from the stream of musical consciousness due to the mistake, you have to slam your way back into the song at the right moment while simlutaneously attempting to regain your composure.
+
+## E Flat Tuning
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-024 | tuning | e-flat-tuning | E Flat Tuning | |
+
+Made popular by Eddie Van Halen (EVH), E flat tuning involves tuning the guitar to E flat versus E, unsurprisingly. The story goes that EVH thought it sounded nastier, more evil, so he always tuned his guitar down a half step. The annoying thing about E flat tuning is that most tuners default to sharps, not flats, so instead of tuning to Eb, Ab, Db, Gb, Bb, and Eb, you are actually tuning to D#, G#, C#, F#, A#, and D#. But you are a pro, so you can handle that.
+
+## String Bend
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-025 | technique | string-bend | String Bend | Boomer bend, fretting out |
+
+As the name suggesting, string bending is when you raise (or lower) the pitch of the string you are playing by bending it away from its' resting place, either up or down the fretboard of the guitar. Typically, you bend up on the high strings and down on the low strings, or put another way, you bend in the direction where there is more fretboard to bend. Bending up versus down sounds different. There are also reverse bends, where you mute the string, bend it, then strike it at the higher pitch and release the bend, causing it to "bend down". 
+
+Modern bends are often acheived by ultra fast fret slides - this is a more contemporary sound. Old school bends are called "boomer bends" and usually involve bending the note at least two semitones and finishing it with a wide vibrator. This is easiest to do on a shorter scale guitar, like a Gibson Les Paul.
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -224,9 +268,41 @@ Description
 | GEL- |  |  |  | |  |  |
 
 Description
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
 
 Description
+## 
 
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
 ---
 ## Additional Sources
 
