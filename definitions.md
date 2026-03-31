@@ -257,7 +257,7 @@ Modern bends are often acheived by ultra fast fret slides - this is a more conte
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL-026 |  | noodling | Noodling | | Improvisation |
+| GEL-026 | playing mode | noodling | Noodling | | Improvisation |
 
 Noodling is one of the hardest terms to define because when someone is noodling, it can sound just like improvisation, or workshopping. The general idea is that noodling is undirected, casual playing of the instrument that lacks structure and context, although it may drift in and out of different musical styles. For guitarists, playing meaningless notes in the pentatonic scale is one canonical form of noodling. The guitarist doesn't even have to respect the number of bars in the form - they can just pick away, playing the blues box, stopping and starting, and generally meandering around. This is noodling.
 
@@ -281,7 +281,7 @@ String slap is when the string is released or struck in a way that causes it to 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL-029 |  | practicing | Practicing | rehearsing |
+| GEL-029 | playing mode | practicing | Practicing | rehearsing |
 
 Guitar practice is the act of playing the instrument in ways that build competence. This usually means drills that build speed, dexterity, control, and strings. Practicing builds mental pathways that store musical expressions. These can be recalled later, often without even conscious effort. Practicing can take many forms, from playing through songs, performing scales, and even working on things like looper techniques or physical positioning.
 
@@ -293,7 +293,7 @@ Practicing is most directly related to and confusable with rehearsing. The diffe
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL-030 |  |  |  | |  |  |
+| GEL-030 | playing mode |  |  | |  |  |
 
 Description
 
@@ -301,7 +301,7 @@ Description
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
+| GEL- | playing mode |  |  | |  |  |
 
 Description
 
