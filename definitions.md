@@ -253,7 +253,51 @@ As the name suggesting, string bending is when you raise (or lower) the pitch of
 
 Modern bends are often acheived by ultra fast fret slides - this is a more contemporary sound. Old school bends are called "boomer bends" and usually involve bending the note at least two semitones and finishing it with a wide vibrator. This is easiest to do on a shorter scale guitar, like a Gibson Les Paul.
 
-## 
+## Noodling
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-026 |  | noodling | Noodling | | Improvisation |
+
+Noodling is one of the hardest terms to define because when someone is noodling, it can sound just like improvisation, or workshopping. The general idea is that noodling is undirected, casual playing of the instrument that lacks structure and context, although it may drift in and out of different musical styles. For guitarists, playing meaningless notes in the pentatonic scale is one canonical form of noodling. The guitarist doesn't even have to respect the number of bars in the form - they can just pick away, playing the blues box, stopping and starting, and generally meandering around. This is noodling.
+
+## Scales
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-027 | technique | scales | Scales |  |  |
+
+A scale is a sequence of notes, typically from a root note across one or two octaves following a common patterns. The major scale pattern defines not only the major scale, but all the modes in western music. Each of those modes becomes a scale. Likewise, there are pentatonic scales, diminished scales, and may others. Scales are fundamental to music theory, and for guitarists, tend to be views as the pallete from which one can select notes to play. Playing notes over chords is a fundamental concept in music, and guitar in particular makes this tricky because there are so many ways to play the same note. In order to have all those choices immediately available, we practice scales. There are also non-musical scales that are used as technical exercises to build strength, dexterity, and speed. These are things like "spider drills", inside/outside picking drills, arpeggios, and so forth. Ultimately, these are all different forms of scales.
+
+## String Slap
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-028 | technique | string-slap | String Slap |  |  |
+
+String slap is when the string is released or struck in a way that causes it to hit the fretboard. This can be done by plucking the string, or even grabbing it, pulling it away from the fretboard, and releasing it. Strings can also be slapped with percussive technique, like using the thumb over the pickups to slap the string in such a way as to cause it to slap the fretboard. String slap creates a big transient that it pitched to whatever note or open string was being expressed, making it an amazing technique to bring percussion and melodic lines together.
+
+## Practicing
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-029 |  | practicing | Practicing | rehearsing |
+
+Guitar practice is the act of playing the instrument in ways that build competence. This usually means drills that build speed, dexterity, control, and strings. Practicing builds mental pathways that store musical expressions. These can be recalled later, often without even conscious effort. Practicing can take many forms, from playing through songs, performing scales, and even working on things like looper techniques or physical positioning.
+
+It is important to distinguish between a number of relatyed playing modes: practicing, performing, rehearsing, and workshopping.
+
+Practicing is most directly related to and confusable with rehearsing. The difference is that a rehearsal is the performance of a setlist or set of artistic compositions in the style of the actual performance, whereas practicing does not resemble the performance, even when playing through a song. Practicing invariably includes many non-songplaying elements, like scales and other technical exercises designed to build capability, whearase rehearsing is design to acclimate the performer to a specific artistic expression experience.
+
+## Rehearsing
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-030 |  |  |  | |  |  |
+
+Description
+
+## Workshopping
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
@@ -261,13 +305,6 @@ Modern bends are often acheived by ultra fast fret slides - this is a more conte
 
 Description
 
-## 
-
-| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
-|---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
-
-Description
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
