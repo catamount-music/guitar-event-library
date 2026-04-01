@@ -293,18 +293,58 @@ Practicing is most directly related to and confusable with rehearsing. The diffe
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL-030 | playing mode |  |  | |  |  |
+| GEL-030 | playing mode | rehearsing | Rehearsing |  |  |
 
-Description
+When you rehearse a song or a performance, you are not only playing the performance as it would occur on stage, but frequently also practicing the non-musical elements of the performance. From a playing perspective, rehearsing is a form of practice, but practice is typically not rehearsing. A typical practice session includes lots of elements that don't occur during an actual performance, like warm-ups, scales, and noddling, to name a few. By contract, when reheasing one might not only perform the same songs as the upcoming performance, but also in the same order so that transitions and seques can be practiced.
 
 ## Workshopping
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- | playing mode |  |  | |  |  |
+| GEL-031 | playing mode | workshopping | Workshopping | |  |
+
+When you workshop a song or phrase or passage, you are composing, arranging, and practicing all at the same time. You might have a core musical concepts - an interval, mood, a few chords of a progression, or part of a lead line, and you want to develop it into a meaningful composition. Workshopping is the art of playing through the concepts while changing, adding, removing, and generally experimenting with the concept until a more polished, complete passage has been created.
+
+## Cycle Recording
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-032 | playing mode | cycle-recording | Cycle Recording  | Looping, loop recording |
+
+Cycle, or loop recording, is when you configure your DAW to record in a loop for the purposes of caputuring multiple versions of the same passage as you play it. From the loop recordings, you would typically "comp" or compose a final track that is splied together from the best parts of each individual loop recording. A really short loop recording might be considered an overdub, as you are likely not comping the phrase, but just dropping in a short fix to the prior recording. A longer loop recording, like a verse or a chorus, typically has a bar of padding before and after the passage to give the guitarist a chance to play into and out of the passage in a normal-sounding way.
+
+## DAW
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-033 | technology | DAW | DAW |  | 
+
+DAW is short for `Digital Audio Workstation`. This is the recording and mixing software used to capture performances and edit the resulting music. Popular DAWs include Ableton, LogicPro, FLStudio, Reaper, etc.
+
+## Overdub
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-044 | playing mode | overdub | Overdub |  |  |
+
+An overdub is when you want to fix or change just a small section of playing in a recording. To do that, you arm the DAW to record over a short section and then play the corrected line. This recording then replaces the prior recording in the mix. Overdubs are usually short, attempting to fix a bad note, notes, or chord in an otherwise sufficient recording. Overdubs are kindof notorious for being hard to blend in to sound like the original session. Or perhaps better put, your success at good overdubs is probably limited by your gear. High end studio gear makes this a lot easier. However, anytime you go back to try to mimic an earlier performance, it's probably going to sound different unless it happens right at the same time. 
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
 
 Description
 
+Description
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -332,14 +372,6 @@ Description
 |---|---|---|---|---|---|
 | GEL- |  |  |  | |  |  |
 
-Description
-## 
-
-| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
-|---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
-
-Description
 ---
 ## Additional Sources
 
