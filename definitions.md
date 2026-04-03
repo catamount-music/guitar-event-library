@@ -329,6 +329,76 @@ DAW is short for `Digital Audio Workstation`. This is the recording and mixing s
 
 An overdub is when you want to fix or change just a small section of playing in a recording. To do that, you arm the DAW to record over a short section and then play the corrected line. This recording then replaces the prior recording in the mix. Overdubs are usually short, attempting to fix a bad note, notes, or chord in an otherwise sufficient recording. Overdubs are kindof notorious for being hard to blend in to sound like the original session. Or perhaps better put, your success at good overdubs is probably limited by your gear. High end studio gear makes this a lot easier. However, anytime you go back to try to mimic an earlier performance, it's probably going to sound different unless it happens right at the same time. 
 
+## Cowboy Chords
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-045 | theory | cowboy-chords | Cowboy Chords |  | 
+
+`Cowboy Chords` are the `open string` or `first position` forms of the chords `A`, `C,`, `D`, `E`, and `G`. These chords also form the basis for the `CAGED` system.
+It is believed the term comes from chords that are easy to play around the campfire, as Cowboys apparently do.
+
+## Open Strings
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-046 | theory | open-strings | Open Strings | Muted strings |
+
+An `Open String` is a string that is played without placing a finger on a fret. By open, it means the string is allowed to vibrate at it's fundamental frequency - E A D G B E on a guitar in standard tuning. In other contexts, it refers using at least one open string. For example, there are 'open string' chord formulations, especially for the CAGED chords. You can also opt to play the open strings whenever that note appears in the score (when possible, and it won't sometimes be physically possible). This would be called an `open string` run, even as not all the notes are actually open strings. But the fact that open strings are used consistently makes it an open string run. This is true in other contexts as well (chords, scales, etc.)
+
+## First Position
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-047 | theory | first-position | First Position |  | 
+
+The `First Position` in guitar typically refers to one of two things. 
+
+1. Your hand position relative to the nut. I don't think it's supposed to be synonymous with fret number, but it could be construed that way.
+2. Your hand position relative to the scale. When you map a scale out on the guitar neck, you find that it repeats, as a 24 fret guitar is basically two 12 fret segments side-by-sie. 12 frets is convenient becuase all the finger patterns repeat every 12 frets for all scales. In normal scales, there are 7 tones. This leads to 7 positions as the scale is viewed relative to the tones. In a pentatnoic scale there are five patterns that repeat. They are called positions, so there is a first through fifth position in pentatonic scales. Each position plays a pentatonic scale, but they all start on a different, successive note of the scale.
+
+## CAGED System
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-048 | theory | caged-system | CAGED System | |  |
+
+The `CAGED` system using the open string form of the chords C, A, G, E, and D to map the first 12 frets of the guitar into the major scale. The chord forms connect, providing access to many of the notes of the major scale linked across the 12 frets. CAGED is used to teach major scale soloing and provides easy reference points to many of the notes in the major scale through those chord shapes. CAGED is a conceptual tool rather than a precise one, and there are complaints that some of thd chord shapes are really extensions, and there should only be three chords in the form.
+
+## Standard Tuning
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-049 | tuning | standard-tuning | Standard Tuning |    |
+
+Standard tuning for a guitar is, from low string to high string, E, A, D, G, B, E. It's always been that way as far as I know. And yeah, the B string is a real fucking beeyotch to deal with. Standard tuning is also based on a 440 Hz A. Note that bands like Van Halen are technically not using standard tuning. In their case, it's called "E flat" tuning, and it means standard tuning pitched down by one semitone.
+
+## Feedback
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-050 |  | feedback | Feedback | |  |
+
+Feedback occurs when the amplified signal of the guitar is picked up by the guitar pickup, causing a positive feedback loop. This an engineering term of art. A positive feedback loop means that the signal feeding back causes constructive interference, increasing the amplitude of the signal as it is being amplified. This is categorized by squeals and howling sounds. In high gain / high distortion situations, feedback can begin to develop as notes and chords decay. It is used as a performative technique as well, by letting the feedback cycle establish into a stable tone, and then moving the strings, pickup selector, or making some other change that alters the feedback sound.
+
+## String Slip
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-051 | noise | string slip | String Slip | tuning nut ping |
+
+String slip occurs when the string becomes mechanically locked to either the nut or the bridge or the rollers on the bridge, and some kind of movement breaks the static friction. It typically sounds like a snap or ping sound, as the string suddently snaps into a new resting place. The grooves of the nut or the rollers of the bridge can be lubricated to reduce the incidence of string slip.
+
+## Noise Floor
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-052 | noise | noise floor | Noise Floor |  |  |
+
+The noise floor is a measurement made with no actual signal present to determine the ambient sound conditions for the recording. So, for example, plugging in a guitar but muting the strings with one hand. The sound coming out is only some low noise or buzzing, but no guitar signal. That is one measurement of the noise floor. If you disconnect the guitar and leave the input to the interface floating, you will get another noise floor - that of the recording device. The noise floor is what they are referring to when they say "signal to noise" ration, a term of art, meaning the average or maximum signal amplitude divided by the average or maximum noise amplitude.
+
+The noise floor is also how a noise gate works. It simply suppressed the sound whenever the amplitude drops below the noise floor, as set by the noise gate's threshold.
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -336,6 +406,7 @@ An overdub is when you want to fix or change just a small section of playing in 
 | GEL- |  |  |  | |  |  |
 
 Description
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -344,7 +415,6 @@ Description
 
 Description
 
-Description
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -352,6 +422,7 @@ Description
 | GEL- |  |  |  | |  |  |
 
 Description
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -359,6 +430,7 @@ Description
 | GEL- |  |  |  | |  |  |
 
 Description
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -366,11 +438,30 @@ Description
 | GEL- |  |  |  | |  |  |
 
 Description
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
 | GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
 
 ---
 ## Additional Sources
