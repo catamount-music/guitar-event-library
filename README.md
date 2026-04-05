@@ -9,7 +9,7 @@ The **Guitar Event Library (GEL)** provides a structured, machine-readable "Sour
 ## 🎯 Project Goals
 * **Standardization:** Define a common language for guitar signal "events" (e.g., *Wound String Pluck* vs. *Fret Clank*).
 * **Machine Learning:** Provide high-quality labels and definitions for training audio classifiers.
-* **Provenance:** Establish a reference registry for embedding metadata into audio manifests via C2PA.
+* **Discovery:** Can we answer the age-old question, "what is noodling?"
 
 ---
 
@@ -18,7 +18,7 @@ This project is currently in an "Active R&D" phase. The structure will evolve fr
 
 * `/definitions.md` - The primary encyclopedia of guitar events.
 * `/schema` - (Planned) JSON/YAML schema for data validation.
-* `/samples` - (Planned) Reference .wav files recorded via BNC-direct output.
+* `/samples` - (Planned) Reference .wav files.
 
 ---
 
