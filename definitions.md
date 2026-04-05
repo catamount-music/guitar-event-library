@@ -439,6 +439,56 @@ Tone swell is a sound that emulates a wah-wah peddle. You do it by rolling the t
 
 Diming is an amplifier term. The knobs typically run from 1 to 10 (insert Spinal Tap joke here). When you "dime" am amp, you roll all the knobs to 10 and run it full out in all the ways.
 
+## Rolling-off
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-057 | technique | rolling-off | Rolling Off |   |  |
+
+Rolling-off typically refers to turning down the volume using the volume knob. It's called rolling off because of the technique. To "roll off" the volume, you typically use a finger or the side of the hand contacting the volume knob at a tangent and then using the friction to spin the knob as your finger or hand moves downwards. From a different perspective, it looks like the knob is rolling off your hand. When you are playing electric guitar in a band or around other people and you have to switch from talking to playing, and the plyaing is loud enough that you can't talk while playing, this motion of running your hand down the volume knob to quickly drop the volume to zero becomes fluid and instinctive.
+
+## Cutaway
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-058 | physical | cutaway | Cutaway | | upper bout  |
+
+The cutaway is a rounded section of the guitar body that is removed to make space for the players fretting hand. The cutaway is taken out of the lower bout, and allows access to frets higher than 12 or 14 (this varies depending on the guitar's geometry). With no cutaway, it is extremely difficult to access these frets and you typically cannot use your thumb or palm on the back of the neck to anchor the hand position.
+
+## 60Hz hum
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-059 | noise | 60hz-hum | 60Hz Hum | 50 Hz hum, ground loop  |
+
+60 Hz hum is a buzzing noise, low in frequency, obvs, that usually occurs when there are ground loops present in the guitar signal path. 60Hz is the frequency of the alternating current in North America. This noise is at 50 Hz in Europe, Asia, and other parts of the world. There can also be other low frequency noises that are picked up than just the line noise.
+
+## Ground loop
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-060 | noise | ground-loop | Ground Loop |  |  |
+
+A ground loop usually occurs when the guitar signal path includes daisy-chained pedals that have different grounding paths. One common source is using power cords that all run back to different source outlets. Take the example of a pedal chain with two pedals: distortion and reverb. If you plug both of those pedals into different power supplies, then you allow a current path that goes from one pedal, back through the power supply, to the other pedal. This loop acts an antenna, pickup up noise along the loop and then injecting that into the guitar signal. For simple rigs, ground loops can be pretty easy to eliminate. For complex rigs, having a good power supply is essential. There are devices called "galvanic isolators" that can filter out ground loops, but these should be used as a last resort and aren't generally necessary for guitar rigs.
+
+## Electromagnetic (EM) interference
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-061 | noise | electromagnetic-interference | Electromagnetic Interference | |  |  | |  |  |
+
+Electromagnetic inteference is when any kind of signal is injected into the guitar signal through some kind of coupling mechanism. It could be capacitive coupling in a power supply, phone broadcasts being picked up through poorly insulated pedal case, line noise coming in through a ground loop, or a million other causes. Because generating electricity created a magnetic field, and a magnetic field causes current to flow in metal, we are surrounded by EM noise.
+
+## Shielded cable
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-062 | noise | shielded-cable | Shielded Cable | |   |  |
+
+A sheilded cable comprises one or more conductors carrying signals inside of a woven metal sheath. This sheath is called the shielding and it creates a faraday cage around the conductors. When the sheild itself is grounded, it shunts all the intercepted EM energy to ground, leaving a very clean signal. Sheilded cables are not perfect, though. Even small distortions in the sheilding can impair the sheilding effect. There is also typically a mimumum turning radius ont he cable, so you can't coil it tightly and expect the same EM rejection.
+
+Coaxial cable is a special form of sheilded cable. Coaxial cable's gemoetry itself aids in EM rejection, as the magnetic fields from the conductors and the sheid cancel each other out elegantly. Seriously, it's one of the most rewarding proofs to learn in physics, when you get to the end of the formula and all the terms start cancleling out. Maths can be beautiful, sometimes.
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
@@ -462,6 +512,63 @@ Description
 | GEL- |  |  |  | |  |  |
 
 Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
+## 
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL- |  |  |  | |  |  |
+
+Description
+
 
 ---
 ## Additional Sources
