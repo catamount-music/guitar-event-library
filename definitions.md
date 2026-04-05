@@ -399,45 +399,45 @@ The noise floor is a measurement made with no actual signal present to determine
 
 The noise floor is also how a noise gate works. It simply suppressed the sound whenever the amplitude drops below the noise floor, as set by the noise gate's threshold.
 
-## 
+## Capo
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
+| GEL-053 | technique | capo | Capo |  |  | |  |  |
 
-Description
+A capo is a mechanical device that creates a barre across the fretboard, essentially changing the location of the nut an shortening the stings. A capo can be used to transpose a song to a different key by simply moving the capo to a new root note. While most capos bar the entire neck, there are capos that only barre part of the neck, and some that even allow for indiidual frets to be selected or not. A capo can also be used to change the shape of chords. For example, if a song is in A, but you put a capo on the fifth fret, you can now play it with the open E chord shape instead of the traditional open A chord shape.
 
-## 
-
-| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
-|---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
-
-Description
-
-## 
+## Nashville tuning
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
+| GEL-053 | tuning | nashville-tuning | Nashville Tuning |  | |  |  |
 
-Description
+In Nashville tuning, the strings guages are changed to be the second, or alternate string in a 12 string guitar set. In such a set, there is a normal set of strings. But a 12 string has two strings per note. On the lower strings (E A D) the second string is an octive higher. For the other strings, it is in unison. THus, a Nashville guitar has an octive E, ocirve A, octive D, G, B, E. It sounds pretty strange when yo uhearr it. However, if you double track guitar, you can track the Nashville guitar and it will make the whole mix richer. If you mix it too aggressively, it might sounds like a 12 string, so it's best to choose a different way of playing that piece, and then it will really fucking POP.
 
-## 
-
-| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
-|---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
-
-Description
-
-## 
+## Intonation
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|
-| GEL- |  |  |  | |  |  |
+| GEL-054 | Physical | intonation | Intonation | |  |  |
 
-Description
+The intonation of a guitar indicates how well it stays in tune when you play up the neck. The best test of intonation is to compare the pitch of the note on the 12th fret of the string with the 12th fret harmonic. If they are different, it means that the string length is not exactly half over the 12th fret. It is normal for a guitar to go a little out of tune as you play up the neck, but if the intonation is off, it will sound worse and worse as you play up the next. To fix it, you typically adjust the bridge saddles so that the 1/2 mark of the string is exactly over the 12th fret. You can do this by using a tuner to compare the pitch while ou adjust the sring lenth.
+
+## Tone swell
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-055 | tecnique | tone-swell | Tone Swell |  |  |
+
+Tone swell is a sound that emulates a wah-wah peddle. You do it by rolling the tone knob to the bass setting. Then you strike a note or chord, then roll the tone knob to treble and back. This creates that "wah" sounds. One some guitars, like the Telecaster, you can roll the knob with your pinky while you are playing, and some players develop very advanced techniques using this method.
+
+## Diming
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-056 | technique | dimming | Diming |   |  |
+
+Diming is an amplifier term. The knobs typically run from 1 to 10 (insert Spinal Tap joke here). When you "dime" am amp, you roll all the knobs to 10 and run it full out in all the ways.
 
 ## 
 
