@@ -32,6 +32,36 @@ etc.
 
 ---
 
+## Signal Processing Roles
+
+GEL entries include both `Coverage` and `Signal Nature`.
+
+- `Coverage = pipeline`: term is actively used by automated ML processing.
+- `Coverage = dictionary-only`: term is defined in GEL but not currently part of automated processing.
+
+For pipeline terms, `Signal Nature` separates acoustic detection targets from semantic interpretation and declared context.
+
+- `yamnet-target`: Events intended for frame-level audio detection and timestamped aggregation.
+- `semantic`: Higher-level playing modes inferred from longer sequences of events.
+- `metadata`: Declared setup, context, or theory terms used for provenance and analysis.
+
+Use this as the default pipeline:
+
+1. Run event detection over short windows for `yamnet-target` events.
+2. Post-process detections into timestamped events with confidence and duration.
+3. Feed event sequences to semantic modeling for `semantic` labels.
+4. Keep `metadata` as declared provenance/session context, not an audio inference target.
+
+### Sample Collection Rule
+
+Build the YAMNet data collection queue by filtering definitions where `Coverage = pipeline` and `Signal Nature = yamnet-target`.
+
+Do not require YAMNet to classify labels marked `semantic` or `metadata`. Keep those as second-stage interpretation outputs or declared recording/session data.
+
+Terms marked `Coverage = dictionary-only` remain in the dictionary but are excluded from automated model processing until promoted.
+
+---
+
 ## ⚖️ Licensing & Commercial Use
 
 - **Non-commercial / research use:** Licensed under **CC BY-NC 4.0**.
