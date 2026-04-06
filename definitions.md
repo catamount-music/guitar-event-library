@@ -489,6 +489,108 @@ A sheilded cable comprises one or more conductors carrying signals inside of a w
 
 Coaxial cable is a special form of sheilded cable. Coaxial cable's gemoetry itself aids in EM rejection, as the magnetic fields from the conductors and the sheid cancel each other out elegantly. Seriously, it's one of the most rewarding proofs to learn in physics, when you get to the end of the formula and all the terms start cancleling out. Maths can be beautiful, sometimes.
 
+## Fingerstyle
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-063 | technique | fingerstyle | Fingerstyle |  |  |
+
+Fingerstyle is a technique used to play guitar which, unsurprisingly, features the fingers and not a pick. Fingerstyle guitarists replace the pick with one of three things:
+
+- a Fingertip
+- finger picks that slide on to each fingertip
+- a fingernail
+
+SImilar to classicsal guitarists, serious fingerstyle guitarists grow and treat their nails, or have artificial nails put on, in order to get a clean, picked sound and precision that a fingerpad cannot match.
+
+There are differnt kinds of fingerstyle guitar playing, Travis picking is probably one of the most famous and is a staple in country, bluegrass, and western music.
+
+## Travis Picking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-064 | technique | travis-picking | Travis Picking |   |  |
+
+Named after a Travis (need some research on that one), Travis picking is a specific alternation played either fingerstyle or with a pick hitting the bass note and the fingers hitting the other notes in the chicken picking style. 
+
+Travis picking is using the thumb to create a bassline that alternates on the lower strings in between arpeggios or chords.
+
+We should probably show some music and/or tablature to explain this better.
+
+## Plectrum
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-065 | physical | plectrum | Plectrum | | pick |
+
+A `plectrum` is simple the official, term-of-art name for the thing itself, which almost everyone else in the world calls a `pick`.
+
+## Flatpicking
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-066 | technique | flatpicking | Flatpicking | | |  |
+
+Flatpicking is when you play the guitar using a pick only - no fingers. Common in country and bluegrass, flatpicking usually involves precise alternate picking and it best exemplified by runs on the acoustic guitar. The best known of this is probably the famous "G-run", which I should include a copy of.
+
+The challenge with flatpicking is that strict alternate picking creates difficult string-switching choices, and these are complicated by the more challending aspects of playing an acoustic guitar cleanly at speed. When executed crisply, though, it sounds amazeballs.
+
+## Vibrato
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-066 | technique | vibrato | Vibrato |  |  |
+
+Adding vibrato to a note is one of the most essential forms of expression and one that is typically unique to the player. Vibrato is when you alter the pitch of the note that is ringing out by either bending the string up and down, moving it from side to side quickly, or using the tremolo bar to raise and lower the string tension. Vibrato mimics the sound a human voice makes when this pitch variation is added to the end of a note that is sung and held.
+
+The wild thing about vibrator is that it tends to sound better when you bend up into it. The reason is that the tremolo pitch variations should happen from a baseline of the primary frequency of the note. But when you finger a note on guitar, you can't lower the pitch, you can only raise it, through bending. Thus, the vibrator created centers around a note that is actually sharper than the one played so that the vibrator can be above and below it. When you bend up to a note and then play vibrator, you can center the vibrator pitch on the note you want to plya, but since you are benging up into ti, as you vary the bend to create vibrator, you are able to lower the pitch below the note your are trying to sustein.
+
+I think I need some 8x10 photos with circles and arrows on the back to explain this fully.
+
+## Body Percussion
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-067 | technique | body-percussion | Body Percussion | |  |
+
+Body percussion is self explanatory as long as you realize we are talkinga bot the guitar body. When you tap the body of the guitar, you are able to make sounds that are picked up by the pickup even though you aren't engaging in the typical direct excitation of metal strings in a magnetic field kind of playing. There are a few reasons why hitting the guitar makes noise. (We are talking abouty electric guitar at the moemnt). The biggest reason is becuase it casues the body fo the guitar to vibrate, whichdoes cause the strings to move which creates noise. It can also cause the pickups to move, knobs, strings to reposition causing pings, and other artifacts that are in fact transmitted through the pitckups. 
+
+On an acoustic guitar you get the added benefit of the reverb and sound that is transmitting through the body of the guitar ()and the bracing) and this can be use as percussion during the performance.
+
+Some guitar pickups also have microphonic properties, and may pickup on some of the impact noise created during a body strike.
+
+## Rake
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-068 | technique | rake | Rake | |  |
+
+Raking the strings means struming them slowely enough to hear every string articulated, but not slow enough for tem to sound individually played. Basicaly, on the spectrum of strumming, full strums are fast and you can't hear the invididual strings being played - they all ring out close enough to be one sonund. If you slow that down, you get to the point where you can hear the invididual strings. That is a rake. A rake is simplar toa sweep, although a sweep just generally  means playing up or down the strings in consecutive (or reverse consecutive0 order. A rake usually means playing all the strings  of a chord rather than a lead line or arpeggio.
+
+## Pickup Selector
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-069 | physical | pickup-selector | Pickup Selector | |  |  |  |
+
+The pickup selector is a switch located typcially on the front face of the guitar either below the strings on or near the pickguard, or above the strings (usually on the upper bout). 
+
+The pickup selector switching between the active pickups, assuming there are more than one. Often, a pickup selector also includes pickup blending. That is, there might be 5 positions. 1, 3, and 5 correspond to pickups physically in the guitar, where as 2 is a mix of 1 and 3, and 4 is a mix of 3 and 5. Sometimes there are other tricks build into the pickup selector, like splitting a humbucker into a single coil, or blending together two pickups in a different variation than the one described above. They vary wildly by guitar style.
+
+## String stretching
+
+| GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
+|---|---|---|---|---|---|
+| GEL-070 | technique | string-stretching | String Stretching | |  |  |
+
+You typically stretch the strings after changing them, or if you have a string go out of tune and be challending to keep in tune. String stretching helps to settle the windings on the peg (assming you hdon't have a locking termolo). Locking tremolo sytems,and locking tuners generally obviate the need to stretch strings. The worst string stretcher is a Fender Strat with a spring-loaded tremolo system. Good luck keeping that sucker in tune. 
+
+After you change the strings, they will loosen and tighten until the windings on the tuning peg are regular and there are no loose windings, or extra tight ones. Usually, after chanigng strings, the strings will be stretched by either attempitng a large bend on the 12th fret causing the most deflection and stretcyhing the string aroudn the tunin gpegs, or by pulling them away from the body of the guitar as if to snap them.
+
+This is typically done multiple times as the guitar is a temperted instrument, so every time you fuck with one string, the others react. By repeating the stringth stretching, those reactions get smaller and smaller when repeated until they fall within the normal divations of tuning toleratnce.
+
+String stretching helps aboid the situation where youchange the stirngs and start to play and they immedately go out of tune and sound horrible.
+
 ## 
 
 | GEL-ID | Class | Field | Display Label | Synonyms | Related Terms |
