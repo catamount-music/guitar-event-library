@@ -63,7 +63,7 @@ While audible at normal volume, pinch harmonics are typically played with compre
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-003 | physical | pipeline | metadata | afterlength | Afterlength |  | bridge-length |
+| GEL-003 | physical | pipeline | yamnet-target | afterlength | Afterlength |  | bridge-length |
 The `afterlength` is the section of the strings between the nut and the tuning machines. It makes a plasticky, trebly sound when plucked or picked that has extremely low sustain due to the shortness of the string length. Striking the afterlength also tends to produce an extremely quiet signal in an electric guitar because the part of the strings that is vibrating does not occur over a pickup.
 
 There is no afterlength on a headless guitar, which is a guitar without a headstock.
@@ -72,7 +72,7 @@ There is no afterlength on a headless guitar, which is a guitar without a headst
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-004 | physical | pipeline | metadata | bridge-length | Bridge Length |  | after-length |
+| GEL-004 | physical | pipeline | yamnet-target | bridge-length | Bridge Length |  | afterlength |
 Bridge length is similar to afterlength. It is any section of exposed string that runs between the bridge and tailstop. Bridge length does not occur on all guitars; it depends on the bridge design. Bridge-length strikes tend to be more audible than afterlength strikes because they are closer to the pickups and electronics, and because the bridge is mechanically critical to the transfer of vibration to the instrument, and likely also grounded.
 
 ## Pick Slide
@@ -95,7 +95,7 @@ The location of the harmonic nodes can be changed by shortening the string lengt
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-008 | technique | pipeline | yamnet-target | barre | Barre |  |  |
+| GEL-008 | technique | pipeline | semantic | barre | Barre |  |  |
 A barre occurs when the fretting hand plays a chord shape with no open strings, so all strings vibrate. A simple barre occurs when one picks a fret and places a finger across all the strings on that fret.
 
 The F barre chord is notorious for being the most difficult chord for beginners. String tension is higher near the headstock, and it takes a lot more force to press down cleanly enough to articulate a note on every string in this position.
@@ -104,7 +104,7 @@ The F barre chord is notorious for being the most difficult chord for beginners.
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-009 | technique | pipeline | yamnet-target | barre-chords | Barre Chords |  |  |
+| GEL-009 | technique | pipeline | semantic | barre-chords | Barre Chords |  |  |
 A barre chord is a chord that includes a barre, or a finger placed vertically across the guitar neck, articulating a note on every string. The open chord "E" shape is the most commonly used and named barre chord. It is played with just three fingers in the open position, but the addition of the first-finger barre allows the chord to be moved up and down the neck in any position, changing only the root note of the chord.
 
 ## Chukka
@@ -129,7 +129,7 @@ Chugging is a rhythmic expression that uses patterns of the basic chug to create
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-011 | technique | pipeline | yamnet-target | 3nps | 3NPS |  | scales |
+| GEL-011 | technique | pipeline | semantic | 3nps | 3NPS |  | scales |
 A 3NPS scale is one where there are always three notes on each string. They can be tricky, especially on the lower frets, because they frequently require a 5-fret span, which is a relatively longer distance when located near the headstock.
 
 There are healthy debates about whether 3NPS scales are better than other approaches. Ultimately, the scale patterns are the same; it is just how they are played that varies, and most guitarists would do well to practice all variations because they have different utility in different situations. 3NPS scales are great for legato, hammer-ons, pull-offs, and speed because they have a unifying cadence across all strings. The only thing that really sucks about them is that alternate picking with 3NPS requires you to learn some patterns for moving from string to string.
@@ -138,28 +138,28 @@ There are healthy debates about whether 3NPS scales are better than other approa
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-012 | technique | pipeline | yamnet-target | inside-picking | Inside Picking |  | outside-picking, economy-picking, alternate-picking |
+| GEL-012 | technique | pipeline | semantic | inside-picking | Inside Picking |  | outside-picking, economy-picking, alternate-picking |
 Inside picking occurs when a series of notes falls on two adjacent strings and the passage is played by attacking each string from inside the gap between them. The pick always starts from "inside" the strings.
 
 ## Outside Picking
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-013 | technique | pipeline | yamnet-target | outside-picking | Outside Picking |  | inside-picking, economy-picking, alternate-picking |
+| GEL-013 | technique | pipeline | semantic | outside-picking | Outside Picking |  | inside-picking, economy-picking, alternate-picking |
 Outside picking occurs when a series of notes falls on two adjacent strings and the passage is played by attacking each string from outside the gap between them. The pick always starts from "outside" the strings.
 
 ## Economy Picking
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-014 | technique | pipeline | yamnet-target | economy-picking | Economy Picking |  | inside-picking, outside-picking, alternate-picking |
+| GEL-014 | technique | pipeline | semantic | economy-picking | Economy Picking |  | inside-picking, outside-picking, alternate-picking |
 Economy picking is using the most efficient technique to play a phrase of notes. The classic example is alternate picking with an added sweep-pick motion for any string change that occurs in the same direction as the pick motion. The notion of economy comes from minimizing the number of times the guitarist has to perform an awkward note-to-note transition, such as downstrokes on two different strings at high speed.
 
 ## Alternate Picking
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-035 | technique | pipeline | yamnet-target | alternate-picking | Alternate Picking |  | inside-picking, outside-picking, economy-picking |
+| GEL-035 | technique | pipeline | semantic | alternate-picking | Alternate Picking |  | inside-picking, outside-picking, economy-picking |
 Alternate picking is a technique where the pick always alternates between downstroke and upstroke, no matter where the notes need to be played on the neck. This creates challenging situations, particularly around string switching, where it is sometimes natural and faster to break the alternation. A purist, though, would require strict alternation on every note.
 
 ## Galloping
@@ -208,7 +208,7 @@ A pull-off is when a note is played by pulling up or down on the string with a f
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-021 | technique | pipeline | yamnet-target | chicken-picking | Chicken Picking |  |  |
+| GEL-021 | technique | pipeline | semantic | chicken-picking | Chicken Picking |  |  |
 The chicken-picking technique is named after the sound of one of its principal movements. Chicken picking alternates staccato notes that are picked and plucked with the fingers. The canonical chicken-picking sound mimics clucking, or the "bawk-bawk" sound of a chicken, when the pick strikes a note on a string that is immediately palm-muted, followed by the picking-hand fingers pulling sharply on another string, almost slapping it back onto the neck, to create the second note, which is then also immediately palm-muted. While there are many more complicated patterns, this kind of syncopated alternation between a strongly picked note and notes plucked with the fingers creates a distinct sound that is a staple, particularly in country music and bluegrass.
 
 ## Palm Mute
@@ -222,7 +222,7 @@ A palm mute is when you press the palm of your hand over the strings right where
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-023 | technique | pipeline | yamnet-target | false-start | False Start |  |  |
+| GEL-023 | technique | pipeline | semantic | false-start | False Start |  |  |
 A false start happens when beginning a song or starting a passage. Although making a mistake is not required, it is typically the reason the false-start behavior develops. In a false start, the player realizes immediately that they do not wish to continue playing and simply stops the passage, rests briefly, then starts again. I suppose it is not technically required to play the passage again for it to be a false start. One could simply give up after the attempt and it might be called just a failed attempt at a song. But a false start is usually immediately followed by another attempt.
 
 False starts in an ensemble setting are trickier. Often, one does not have the luxury of stopping, and having broken from the stream of musical consciousness due to the mistake, you have to slam your way back into the song at the right moment while simultaneously attempting to regain your composure.
@@ -254,7 +254,7 @@ Noodling is one of the hardest terms to define because when someone is noodling,
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-027 | technique | pipeline | yamnet-target | scales | Scales |  |  |
+| GEL-027 | technique | pipeline | semantic | scales | Scales |  |  |
 A scale is a sequence of notes, typically from a root note across one or two octaves, following a common pattern. The major scale pattern defines not only the major scale, but all the modes in Western music. Each of those modes becomes a scale. Likewise, there are pentatonic scales, diminished scales, and many others. Scales are fundamental to music theory, and for guitarists they tend to be viewed as the palette from which one can select notes to play. Playing notes over chords is a fundamental concept in music, and guitar in particular makes this tricky because there are so many ways to play the same note. In order to have all those choices immediately available, we practice scales. There are also non-musical scales that are used as technical exercises to build strength, dexterity, and speed. These are things like spider drills, inside and outside picking drills, arpeggios, and so forth. Ultimately, these are all different forms of scales.
 
 ## String Slap
@@ -323,7 +323,7 @@ It is believed that the term comes from chords that are easy to play around the 
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-046 | theory | pipeline | metadata | open-strings | Open Strings |  | muted strings |
+| GEL-046 | theory | pipeline | yamnet-target | open-strings | Open Strings |  | muted strings |
 An `open string` is a string that is played without placing a finger on a fret. By open, it means the string is allowed to vibrate at its fundamental frequency: E A D G B E on a guitar in standard tuning. In other contexts, it refers to using at least one open string. For example, there are open-string chord formulations, especially for the CAGED chords. You can also opt to play the open strings whenever that note appears in the score, when possible, though it will not always be physically possible. This would be called an `open-string` run, even though not all the notes are actually open strings. The fact that open strings are used consistently makes it an open-string run. This is true in other contexts as well, including chords and scales.
 
 ## First Position
@@ -447,7 +447,7 @@ Electromagnetic interference is when any kind of signal is injected into the gui
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-062 | noise | pipeline | yamnet-target | shielded-cable | Shielded Cable |  |  |
+| GEL-062 | noise | pipeline | metadata | shielded-cable | Shielded Cable |  |  |
 A shielded cable comprises one or more conductors carrying signals inside a woven metal sheath. This sheath is called the shielding, and it creates a Faraday cage around the conductors. When the shield itself is grounded, it shunts all the intercepted EM energy to ground, leaving a very clean signal. Shielded cables are not perfect, though. Even small distortions in the shielding can impair the shielding effect. There is also typically a minimum turning radius on the cable, so you cannot coil it tightly and expect the same EM rejection.
 
 Coaxial cable is a special form of shielded cable. Coaxial cable's geometry itself aids in EM rejection, as the magnetic fields from the conductors and the shield cancel each other out elegantly. Seriously, it is one of the most rewarding proofs to learn in physics, when you get to the end of the formula and all the terms start canceling out. Math can be beautiful sometimes.
@@ -456,7 +456,7 @@ Coaxial cable is a special form of shielded cable. Coaxial cable's geometry itse
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-063 | technique | pipeline | yamnet-target | fingerstyle | Fingerstyle |  |  |
+| GEL-063 | technique | pipeline | semantic | fingerstyle | Fingerstyle |  |  |
 Fingerstyle is a technique used to play guitar which, unsurprisingly, features the fingers and not a pick. Fingerstyle guitarists replace the pick with one of three things:
 
 - a fingertip
@@ -471,7 +471,7 @@ There are different kinds of fingerstyle guitar playing. Travis picking is proba
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-064 | technique | pipeline | yamnet-target | travis-picking | Travis Picking |  |  |
+| GEL-064 | technique | pipeline | semantic | travis-picking | Travis Picking |  |  |
 Named after Travis, which I need to research more fully, Travis picking is a specific alternation played either fingerstyle or with a pick hitting the bass note while the fingers hit the other notes in a chicken-picking style.
 
 Travis picking uses the thumb to create a bass line that alternates on the lower strings in between arpeggios or chords.
@@ -489,7 +489,7 @@ A `plectrum` is simply the official term-of-art name for the thing that almost e
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-066 | technique | pipeline | yamnet-target | flatpicking | Flatpicking |  |  |
+| GEL-066 | technique | pipeline | semantic | flatpicking | Flatpicking |  |  |
 Flatpicking is when you play the guitar using a pick only, with no fingers. Common in country and bluegrass, flatpicking usually involves precise alternate picking and is best exemplified by runs on the acoustic guitar. The best-known example is probably the famous G run, which I should include.
 
 The challenge with flatpicking is that strict alternate picking creates difficult string-switching choices, and these are complicated further by the more challenging aspects of playing an acoustic guitar cleanly at speed. When executed crisply, though, it sounds amazeballs.

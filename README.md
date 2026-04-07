@@ -16,13 +16,18 @@ The **Guitar Event Library (GEL)** provides a structured, machine-readable "Sour
 ## 🛠 Project Structure (Beta)
 This project is currently in an "Active R&D" phase. The structure will evolve from a flat dictionary into a formal schema.
 
+**Current version:** `0.3.0` — tracked in `VERSION` and via [GitHub Releases](https://github.com/catamount-music/guitar-event-library/releases). This project follows [SemVer](https://semver.org/) with a pre-1.0 interpretation:
+- **Patch** (`0.3.x`): new GEL entries added, no schema change.
+- **Minor** (`0.x.0`): breaking schema change (fields added, renamed, or removed) — use this freely until 1.0.
+- **1.0.0**: schema stabilized and ready for external consumers.
+
 * `/definitions.md` - The primary encyclopedia of guitar events.
 * `/schema` - (Planned) JSON/YAML schema for data validation.
 * `/samples` - (Planned) Reference .wav files.
 
 ---
 
-## 📜 Baseline Definitions (v0.1)
+## 📜 Baseline Definitions
 *Currently drafting initial entries for six-string electric guitar, direct-in, with standard tuning.*
 
 1. **GEL-001: Bell Harmonic
