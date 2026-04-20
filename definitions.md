@@ -64,16 +64,16 @@ While audible at normal volume, pinch harmonics are typically played with compre
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
 | GEL-003 | physical | pipeline | yamnet-target | afterlength | Afterlength |  | bridge-length |
-The `afterlength` is the section of the strings between the nut and the tuning machines. It makes a plasticky, trebly sound when plucked or picked that has extremely low sustain due to the shortness of the string length. Striking the afterlength also tends to produce an extremely quiet signal in an electric guitar because the part of the strings that is vibrating does not occur over a pickup.
+The `afterlength` is the section of the strings between the bridge and the tailpiece. It makes a plasticky, trebly sound when plucked or picked that has extremely low sustain due to the shortness of the string length. Striking the afterlength can still produce a quiet signal in an electric guitar, but it is often more audible than headstock overhang because it is closer to the bridge/pickup side of the instrument.
 
-There is no afterlength on a headless guitar, which is a guitar without a headstock.
-
-## Bridge Length
+## Headstock Overhang
 
 | GEL-ID | Class | Coverage | Signal Nature | Field | Display Label | Synonyms | Related Terms |
 |---|---|---|---|---|---|---|---|
-| GEL-004 | physical | pipeline | yamnet-target | bridge-length | Bridge Length |  | afterlength |
-Bridge length is similar to afterlength. It is any section of exposed string that runs between the bridge and tailstop. Bridge length does not occur on all guitars; it depends on the bridge design. Bridge-length strikes tend to be more audible than afterlength strikes because they are closer to the pickups and electronics, and because the bridge is mechanically critical to the transfer of vibration to the instrument, and likely also grounded.
+| GEL-004 | physical | pipeline | yamnet-target | bridge-length | Headstock Overhang | headstock length | afterlength |
+Headstock overhang (also called headstock length) is the exposed section of string between the nut and the tuning machines. This section can be plucked or struck to create a short, bright, plasticky sound with very low sustain. On most electric guitars, this signal is relatively quiet because the vibrating segment is on the nut/headstock side and not directly over the pickups.
+
+There is no headstock overhang on a headless guitar, obvs, it being a guitar without a headstock.
 
 ## Pick Slide
 
